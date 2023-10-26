@@ -5,4 +5,4 @@ Simple tutorial of how to play the mod:
 After downloading Create Your Frisk 0.6.5, you're supposed to move the folder called "sans" (The one with Sans' head as an icon) to the "Mods" folder.
 
 
-## [Click here to select versions](https://github.com/RyAtlasX/Sans-Survival-Fight/releases)
+## [Click here to select versions of the mod](https://github.com/RyAtlasX/Sans-Survival-Fight/releases)
